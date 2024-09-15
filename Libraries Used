@@ -1,0 +1,4 @@
+NumPy: Used for performing numerical calculations and mathematical operations.
+Pandas: Essential for data manipulation, transformation, and analysis.
+Matplotlib: A tool for creating visual representations of data.
+Seaborn: Provides advanced visualization capabilities, building on top of Matplotlib.
